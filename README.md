@@ -14,5 +14,5 @@ A bash script to partition and format a disk and mount the partition.
     ```
 3. **Execute the script**  
     ```
-    ./mdisk.sh
+    ./mdisk.sh -(n/e) device partition_table partition_type filesystem start End partition mount_point 
     ```
